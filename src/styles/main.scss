@@ -33,6 +33,9 @@
   main {
     text-align: center;
     margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
     div {
       width: 400px;
