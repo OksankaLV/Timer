@@ -1,6 +1,6 @@
 # timer
 
-Built on the original template for creating a front-end website, but using Webpack to support writing modern JavaScript (ES6+), including ES and Sass modules from
+Built on the original template for creating a front-end website, but using Webpack to support writing modern JavaScript (ES6+), including ES and Sass modules from Esau Silva https://twitter.com/_esausilva
 
 ## Usage
 
