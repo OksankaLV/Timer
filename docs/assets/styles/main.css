@@ -60,6 +60,9 @@ h5 {
 .wrapper main {
   text-align: center;
   margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .wrapper main div {
   width: 400px;
